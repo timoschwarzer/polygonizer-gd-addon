@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=1]
+
+[ext_resource path="res://addons/com.timoschwarzer.polygonizer/PolygonPreview.gd" type="Script" id=1]
+
+[node name="PolygonPreview" type="Node2D"]
+
+z/z = 4096
+script/script = ExtResource( 1 )
+
+
